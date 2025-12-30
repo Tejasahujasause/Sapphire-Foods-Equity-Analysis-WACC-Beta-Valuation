@@ -4,7 +4,7 @@
 This project presents a full-stack financial analysis of Sapphire Foods India Ltd, integrating market behavior, risk estimation, capital structure analysis, valuation modeling, and strategic investment review.
 The analysis is conducted strictly in one Excel workbook, following academic and professional finance standards, with complete transparency of assumptions, formulas, and intermediate calculations.
 The project combines market data, accounting data, and corporate disclosures to evaluate whether Sapphire Foods is fairly valued, how its risk profile evolves over time, and how its capital allocation decisions compare to peers.
-
+*All analysis and models are contained in a single Excel workbook with full workings and formulas, while the accompanying PDF documents the problem statement, assumptions, parameters, and evaluation framework*
 **Company Profile**
 
 **Sapphire Foods India Ltd
